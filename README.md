@@ -1,1 +1,1 @@
-# Labs_javaScript-
+# Labs_JavaScript-
